@@ -1,4 +1,4 @@
-module github.com/antchfx/xmlquery
+module github.com/readium/xmlquery
 
 go 1.14
 
